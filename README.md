@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmaydubey
 - 👀 I’m primarily interested in machine learning, but have a love for all things CS/math.
-- 🌱 I’m currently learning to be more proficient at ML development.
+- 🌱 I’m currently working on projects to augment deep learning models with reasoning capabilities.
 - 💞️ I’m looking to collaborate on open-source machine learning projects.
 - 📫 How to reach me ... tanmaydubey at gmail.com
 
