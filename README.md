@@ -1,17 +1,18 @@
 # 👋 Hi, I’m Tanmay Dubey
 
-I'm a software engineer focused on machine learning infrastructure, distributed systems, and interpretable AI. Over the past 5+ years, I’ve built production-grade systems across QA automation (Infosys), SDN control/data planes (AWS EC2), and ML model serving backends (Lyft).
+💻 Software Engineer with a background in ML systems, distributed infrastructure, and mathematical modeling.  
+🎓 Educated at Reed College (Math & CS); formerly at AWS EC2 and Lyft.  
+🔍 Currently open to roles in applied machine learning, backend engineering, and ML infrastructure.  
 
-My academic background blends mathematics, symbolic modeling, and unsupervised learning. In undergrad, I built a classifier to generate research subfields using LDA and clustering; earlier, I applied group theory and Pólya’s Enumeration Theorem to analyze symmetry in twelve-tone music.
+## 🔧 Projects
+- **[topic-modeling-cs-papers](https://github.com/yourname/topic-modeling-cs-papers)**  
+  Unsupervised classification of computer systems research using topic modeling (LDA, k-means).  
+  *Senior thesis project at Reed College.*
 
-I'm especially interested in:
-- Bridging symbolic reasoning and neural networks
-- Building systems that are interpretable, fair, and efficient
-- Research that connects math, meaning, and machine learning
+[- *(Add one small ML tool, even if experimental — e.g., notebook that demonstrates clustering or data cleaning)*]: #
 
-🧠 **Highlighted projects**:
-- [`topic-modeling-cs-papers`](https://github.com/tanmaydubey/topic-modeling-cs-papers): Unsupervised subfield classification using topic modeling and clustering
-- *(More coming soon)*
+## 🛠️ Tech Stack
+Python · C · Java · C++ · scikit-learn · PySpark · AWS · Redis · REST APIs
 
-📫 Reach me at: `tanmay [dot] dubey [dot] nine five one four [at] gmail [dot] com`  
-🔗 [LinkedIn](https://linkedin.com/in/tanmay-dubey)
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/tanmay-dubey) · tanmay.dubey9514@gmail.com
