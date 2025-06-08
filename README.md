@@ -5,7 +5,7 @@
 🔍 Currently open to roles in applied machine learning, backend engineering, and ML infrastructure.  
 
 ## 🔧 Projects
-- **[topic-modeling-cs-papers](https://github.com/yourname/topic-modeling-cs-papers)**  
+- **[topic-modeling-cs-papers](https://github.com/tanmaydubey/topic-modeling-cs-papers)**  
   Unsupervised classification of computer systems research using topic modeling (LDA, k-means).  
   *Senior thesis project at Reed College.*
 
