@@ -9,8 +9,6 @@
   Unsupervised classification of computer systems research using topic modeling (LDA, k-means).  
   *Senior thesis project at Reed College.*
 
-[- *(Add one small ML tool, even if experimental — e.g., notebook that demonstrates clustering or data cleaning)*]: #
-
 ## 🛠️ Tech Stack
 Python · C · Java · C++ · scikit-learn · PySpark · AWS · Redis · REST APIs
 
