@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tanmay Dubey
 
 💻 Software Engineer with a background in ML systems, distributed infrastructure, and mathematical modeling.  
-🎓 Educated at Reed College (Math & CS); formerly at AWS EC2 and Lyft.  
+🎓 Educated at Reed College (Math & CS).  
 🔍 Currently open to roles in applied machine learning, backend engineering, and ML infrastructure.  
 
 ## 🔧 Projects
