@@ -13,4 +13,4 @@
 Python · C · Java · C++ · scikit-learn · PySpark · AWS · Redis · REST APIs
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/tanmay-dubey) · tanmay.dubey9514@gmail.com
+tanmay.dubey9514@gmail.com
